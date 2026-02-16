@@ -18,4 +18,4 @@ app.get('/date', function (req, res) {
 })
 
 
-app.listen(3000, () => console.log("Server is running"))
+app.listen(3000, () => console.log("Server is running now"))
